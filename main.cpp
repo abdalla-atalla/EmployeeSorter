@@ -1,8 +1,5 @@
 //
 //  main.cpp
-//  EC2
-//  This program was created by Abdalla Atalla for CISC 192 C++ Programming and finished on 11/26/19. This program opens and reads data from any external data file and then display that data on the screen for viewing. The program will read up to 1000 employees and display on the screen their id in ascending order, their name, balance, and 15% of their balance.
-//  Created by Abdalla Atalla on 11/23/19.
 //  Copyright © 2019 Abdalla Atalla. All rights reserved.
 //
 
