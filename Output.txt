@@ -1,0 +1,13 @@
+11111     Rita Gupta#         14863.50       2229.52        
+12345     Brad Smith#         128923.45      19338.52       
+22222     Jose Ramey#         25345.35       3801.80        
+23422     Ajay Kumar#         72682.90       10902.43       
+23452     Salma Quade#        2812.90        421.94         
+32657     Jennifer Ackerman#  9823.89        1473.58        
+54234     Sheila Duffy#       65222.00       9783.30        
+55555     Tommy Pitts#        892.85         133.93         
+77234     Ashley White#       4563.50        684.52         
+81234     Sheila Robinson#    674.00         101.10         
+82722     Steve Sharma#       78932.00       11839.80       
+87123     Lisa Johnson#       2345.93        351.89         
+
